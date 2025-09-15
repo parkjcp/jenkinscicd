@@ -5,8 +5,8 @@
     <h2>Tomcat server. admin is park. </h2>
     <hr>
     <h1>${msg}</h1>
-    <h1>Hi there update-test 04</h1>
+    <h1>Hi there update-test</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 20</h3>
+    <h3>Version: 2025.09.15</h3>
 </body>
 </html>
